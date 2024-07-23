@@ -1,4 +1,4 @@
-package dia_01_Atividade01_formaSimplificada;
+package dia_01.dia_01_Atividade01_formaSimplificada;
 
 import java.util.Scanner;
 

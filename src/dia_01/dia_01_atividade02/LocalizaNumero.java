@@ -1,4 +1,4 @@
-package dia_01_atividade02;
+package dia_01.dia_01_atividade02;
 
 import java.util.Arrays;
 import java.util.Scanner;

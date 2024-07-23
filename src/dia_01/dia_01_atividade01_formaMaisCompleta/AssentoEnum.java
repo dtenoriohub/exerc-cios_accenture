@@ -1,4 +1,4 @@
-package dia_01_atividade01_formaMaisCompleta;
+package dia_01.dia_01_atividade01_formaMaisCompleta;
 
 public enum AssentoEnum {
 	
