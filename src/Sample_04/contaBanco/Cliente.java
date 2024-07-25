@@ -1,4 +1,4 @@
-package Sample_04_ContaBanco;
+package Sample_04.contaBanco;
 
 public class Cliente {
     ContaCorrente contaCorrente;

@@ -1,4 +1,4 @@
-package Sample_04_ContaBanco;
+package Sample_04.contaBanco;
 
 import java.util.Date;
 import javax.swing.JOptionPane;
